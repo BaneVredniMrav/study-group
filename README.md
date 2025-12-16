@@ -1,4 +1,4 @@
-# ChessKid E2E Playwright Test Automation
+# Study Group Test Automation
 
 Automated end-to-end testing for the ChessKid platform using [Playwright](https://playwright.dev/).
 
